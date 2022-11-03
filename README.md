@@ -8,8 +8,8 @@
 {he/him} I'm majoring in Computer Science and a front-end developer, I like to learn new technologies and explore several programming languages
 
 
-- 📫 How to reach me 
-[![Linkedin Badge](https://img.shields.io/badge/Linkedin-323330?style=for-the-badge&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/hugossantos/) &nbsp;
+- 📫 How to reach me </br>
+[![Linkedin Badge](https://img.shields.io/badge/Linkedin-323330?style=for-the-badge&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/hugossantos/)
 
 
 ## Tools
