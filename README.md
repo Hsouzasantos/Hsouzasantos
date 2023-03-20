@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning reactjs, node, sql, python, date analysis with python
 
 ## About me
-{he/him} I'm majoring in Computer Science and a front-end developer, I like to learn new technologies and explore several programming languages
+{he/him} I'm student in Computer Science and a front-end developer, I like to learn new technologies and explore several programming languages
 
 
 - 📫 How to reach me </br>
