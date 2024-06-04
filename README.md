@@ -1,8 +1,8 @@
 # Hello {and Wellcome my} World!!
 
 - 👋 Hi, I’m @Hsouzasantos
-- 👀 I’m interested in technologies, movies, books and sports in general
-- 🌱 I’m currently learning reactjs, node, sql, python, date analysis with python
+- 👀 I’m interested in technologies, movies, books, coffee and sports in general
+- 🌱 I’m currently learning AWS, Terraform, Docker, Kubernetes, Observability and monitoring, sql e python
 
 ## About me
 {he/him} I'm student in Computer Science and a front-end developer, I like to learn new technologies and explore several programming languages
